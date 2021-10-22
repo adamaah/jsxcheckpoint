@@ -1,0 +1,39 @@
+.firstDiv {
+    border:solid 1px black;
+    max-width: 100vw;
+    margin-bottom: 50px;
+    padding: 50px;
+  }
+  
+  .title {
+    font-family: 'Montserrat';
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .redd {
+      font-style: italic;
+  }
+  
+  .title span {
+    color: #7ddffc;
+  }
+  
+  .mesImages {
+    height: 400px;
+    width: auto;
+    margin: auto;
+    display: block;
+  }
+  
+  .maVideo {
+    margin: auto;
+    display: block;
+    width: 320px; 
+    height: 240px;
+    margin-bottom: 50px;
+}
+
+.separateur {
+    height: 40px;
+}
